@@ -30,6 +30,8 @@
 - Find the data statistics of the dataset,
 - Find the data types and missing values,
 - Rename the column names,
-- Remove unnecessary columns. <br><br>
+- Remove unnecessary columns.
+- Analyzing the data and find answers of different kinds of questions that arises on mind while dealing with the dataset.
+- Arrange the dataset in a custom column order and making it more understandable and so on. <br><br>
 
 <b>DataSet Reference:</b> https://stats.espncricinfo.com/ci/content/records/93276.html
